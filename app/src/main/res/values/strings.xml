@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">"Progress_Bar "</string>
+    <string name="downloads_completed">Download Completed</string>
+
+    <string name="start">START</string>
+
+    <string name="restart">RESTART</string>
+
+    <string name="restart1">RESTART</string>
+
+    <string name="downloading">Downloading...</string>
+</resources>
